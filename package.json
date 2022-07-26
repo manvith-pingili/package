@@ -7,9 +7,5 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "I am a README.md file.",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  },
-  "devDependencies": {}
+  "description": "I am a README.md file."  
 }
